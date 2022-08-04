@@ -12,6 +12,7 @@ public class api {
         maps.put("朱茵",20);
         maps.put("刘宇恒",22);
         maps.put("梓诺哥哥",18);
+        maps.put("江gg",18);
         System.out.println(maps);
         Set<String> key = maps.keySet();
         for (String k:key
