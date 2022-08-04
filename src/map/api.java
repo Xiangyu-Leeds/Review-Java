@@ -1,4 +1,4 @@
-//package map;
+package map;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -10,6 +10,7 @@ public class api {
         maps.put("石原里美",18);
         maps.put("工藤静香",19);
         maps.put("朱茵",20);
+        maps.put("刘宇恒",22);
         System.out.println(maps);
         Set<String> key = maps.keySet();
         for (String k:key
