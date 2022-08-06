@@ -7,7 +7,7 @@ import java.util.Set;
 public class api {
     public static void main(String[] args) {
         Map<String ,Integer> maps = new HashMap<>();
-        maps.put("石原里美",18);
+        maps.put("石原里",18);
         maps.put("工藤静香",19);
         maps.put("朱茵",20);
         maps.put("刘宇恒",22);
