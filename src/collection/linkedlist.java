@@ -11,6 +11,9 @@ public class linkedlist {
         list.addLast(1);
         list.addLast(2);
         list.addLast(3);
+//        System.out.println(list.size());
+//        int k = list.removeLast();
+//     System.out.println(list.size());
 //        char w ='s';
 //        String w1 ="2";
 //        w1.equals("3");
