@@ -1,3 +1,5 @@
+package fanxing;
+
 
 //public class test3 {
 //}
@@ -15,7 +17,7 @@ public class test3 {
         System.out.printf("String Value :%s\n", stringBox.get());
     }
 }
- class Box<T> {
+class Box<T> {
 
     private T t;
 
