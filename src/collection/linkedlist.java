@@ -24,6 +24,7 @@ public class linkedlist {
         System.out.println(list.peekLast());
         System.out.println(list.peekFirst());
 
+
         //出栈： LIFO（后进先出）
         System.out.println(list.removeFirst());//3
         System.out.println(list.removeFirst());//2
