@@ -1,4 +1,4 @@
-package 排序算法;
+package sort;
 
 public class QuickSort {
     public static void quickSort(int[] arr,int low,int high){
