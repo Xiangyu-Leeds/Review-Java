@@ -1,5 +1,7 @@
 package collection;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;
 //Stack与LinkedList都能作为栈结构，对外表现的功能效果是一样，但是它们的物理结构不同，
@@ -11,6 +13,22 @@ public class linkedlist {
         list.addLast(1);
         list.addLast(2);
         list.addLast(3);
+        if(list.removeLast()==3){
+         System.out.println("ww");
+        }
+     System.out.println(list);
+        StringBuilder a = new StringBuilder();
+        a.append(3);
+        a.append(2);
+        a.replace(0,1, String.valueOf(Integer.parseInt(String.valueOf(a.charAt(0)))+1));
+        System.out.println(a.charAt(0));
+        System.out.println(a);
+        String sb ="qwe";
+        sb=sb+1;
+        System.out.println("sb: "+sb);
+
+
+
 //        System.out.println(list.size());
 //        int k = list.removeLast();
 //     System.out.println(list.size());

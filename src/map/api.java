@@ -8,6 +8,7 @@ public class api {
     public static void main(String[] args) {
         Map<String ,Integer> maps = new HashMap<>();
         maps.put("石原里",18);
+        maps.put("工藤静香",21);
         maps.put("工藤静香",19);
         maps.put("朱茵",20);
         maps.put("刘宇恒",22);
@@ -30,6 +31,8 @@ public class api {
                 set) {
             System.out.println(s.getKey()+"->"+s.getValue());
         }
+        String kp = "wisudwh";
+//        System.out.println(kp.i);
 
     }
 }

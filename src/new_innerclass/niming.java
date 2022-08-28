@@ -22,6 +22,8 @@ public class niming {
 //                }
 //            };
 //            p.run();
+        //lambda表达式  只有一个方法才可以用lambda
+        //People p = ()->{};
         }
 //输出结果：
 //小学生跑的慢

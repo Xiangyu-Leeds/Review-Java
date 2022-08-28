@@ -13,3 +13,7 @@ package new_innerclass;
 public class overview {
 
 }
+
+
+//如果只想用一次，就直接匿名内部类
+//其他可以选择别的

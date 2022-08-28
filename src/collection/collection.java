@@ -6,15 +6,14 @@ package collection;
 //HashSet:无序、不重复、无索引
 //LinkedHashSet:有序、不重复、无索引
 //TreeSet:按照大小默认升序排序、不重复、无索引
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
+import java.util.*;
 
 public class collection {
     public static void main(String[] args) {
         // 创建集合对象
         // 使用多态形式
         Collection<String> coll = new ArrayList<String>();
+        coll.toArray();
         // 使用方法
         // 添加功能  boolean  add(String s)
         coll.add("小李广");
