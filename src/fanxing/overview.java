@@ -6,4 +6,6 @@ package fanxing;
 //泛型方法方法体的声明和其他方法一样。注意类型参数只能代表引用型类型，不能是原始类型（像int,double,char的等）。
 public class overview {
 
+
+
 }
